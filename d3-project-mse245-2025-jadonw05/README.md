@@ -20,12 +20,3 @@ A full-stack web application that allows users to browse a movie database, searc
 * **Trailer Integration:** Embedded video players to view movie trailers directly on the site.
 * **Review System:** Custom interface to submit ratings and reviews for both films and trailers.
 * **Performance:** Optimized backend middleware to ensure fast request handling and data delivery.
-
-## 💻 Local Development
-
-To run the frontend and explore the UI components:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/movie-review-site.git](https://github.com/your-username/movie-review-site.git)
-   cd movie-review-site
